@@ -1,0 +1,19 @@
+{
+  "metadata" :
+  {
+    "name" : "URL Scanner",
+    "fullname" : "Uniform Resource Locator Scanner",
+    "contraction-name" : "URL-S",
+    "version" : "1.1.2",
+    "author" : "Shervin Badanara"
+  },
+  "support" :
+  {
+    "instagram" : "https://www.instagram.com/shervin.bdn",
+    "github" : "https://www.github.com/shervin-glitch"
+  },
+  "donation" :
+  {
+    "BTC" : "https://commerce.coinbase.com/checkout/59c5ff55-0726-4b8b-a0ef-7f0b4dfb4f35"
+  }
+}
